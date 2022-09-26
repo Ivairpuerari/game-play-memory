@@ -1,6 +1,6 @@
 # gameplay
 
-A new Flutter project.
+Este é um repositório para a execução da Sprint da matéria de Gestão de Projetos de Software
 
 ## Getting Started
 
